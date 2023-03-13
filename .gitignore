@@ -23,3 +23,8 @@
 hs_err_pid*
 /imooc-hire-dev/imooc-hire-dev.iml
 /.idea/
+/hire-api.iml
+/hire-common.iml
+/hire-pojo.iml
+/service-company-6001.iml
+/service-user-7001.iml
